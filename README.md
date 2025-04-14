@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 added a new line in readme file
+
+# this text is now only in feature1 branch but when the feature1 and main will merge it will appear.
