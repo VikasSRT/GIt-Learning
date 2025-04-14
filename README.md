@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 added a new line in readme file
 
 # this text is now only in feature1 branch but when the feature1 and main will merge it will appear.
+
+# This will cause merge conflict because it is in feature1 and also there will be something in main branch too.
